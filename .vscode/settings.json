@@ -1,0 +1,30 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.config": "./deno.json",
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true,
+    "https://esm.sh": false
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#59453f",
+    "activityBar.activeBorder": "#5c8365",
+    "activityBar.background": "#59453f",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#5c8365",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#59453f",
+    "sideBar.border": "#59453f",
+    "statusBar.background": "#3b2e2a",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#59453f",
+    "statusBarItem.remoteBackground": "#3b2e2a",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "tab.activeBorder": "#59453f",
+    "titleBar.activeBackground": "#3b2e2a",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#3b2e2a99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
+}
