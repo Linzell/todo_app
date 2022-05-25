@@ -85,7 +85,7 @@ function onClick(todo) {
   <div className="todos-app">
     <Head>
       <title>Todos</title>
-      <meta name="description" content="A todos app powered by Aleph.js" />
+      <meta name="description" content="Une application todos" />
     </Head>
     <h1>
       <span>Todos</span>
@@ -98,7 +98,7 @@ function onClick(todo) {
       </li>
     </ul>
     <form @submit="onSubmit">
-      <input :disabled="!!isMutating" type="text" name="message" placeholder="What needs to be done?"
+      <input :disabled="!!isMutating" type="text" name="message" placeholder="Ce qui doit être fait?"
         autofocus="autofocus" autocomplete="off" />
     </form>
   </div>
