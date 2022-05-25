@@ -22,5 +22,5 @@ jobs:
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: PROJECT_NAME # todo: change this to your project name in https://dash.deno.com
+          project: "linz-todo" # todo: change this to your project name in https://dash.deno.com
           entrypoint: dist/server.js
