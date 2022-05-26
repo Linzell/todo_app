@@ -1,13 +1,13 @@
 {
   "imports": {
     "~/": "./",
-    "@unocss/": "https://deno.land/x/aleph@1.0.0-alpha.49/lib/@unocss/",
-    "aleph/": "https://deno.land/x/aleph@1.0.0-alpha.49/",
-    "aleph/server": "https://deno.land/x/aleph@1.0.0-alpha.49/server/mod.ts",
-    "aleph/vue": "https://deno.land/x/aleph@1.0.0-alpha.49/framework/vue/mod.ts",
+    "@unocss/": "https://deno.land/x/aleph@1.0.0-alpha.56/lib/@unocss/",
+    "aleph/": "https://deno.land/x/aleph@1.0.0-alpha.56/",
+    "aleph/server": "https://deno.land/x/aleph@1.0.0-alpha.56/server/mod.ts",
+    "aleph/vue": "https://deno.land/x/aleph@1.0.0-alpha.56/framework/vue/mod.ts",
     "vue": "https://esm.sh/vue@3.2.33",
     "vue/server-renderer": "https://esm.sh/@vue/server-renderer@3.2.33",
-    "*.vue": "https://deno.land/x/aleph@1.0.0-alpha.49/loaders/vue.ts!loader"
+    "*.vue": "https://deno.land/x/aleph@1.0.0-alpha.56/loaders/vue.ts!loader"
   },
   "scopes": {}
 }
