@@ -23,4 +23,4 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "linz-todo" # todo: change this to your project name in https://dash.deno.com
-          entrypoint: dist/server.js
+          entrypoint: dist/server.ts
