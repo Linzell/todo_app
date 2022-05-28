@@ -5,7 +5,7 @@ type TodoItem = {
   completed: boolean;
 };
 
-type Store = {
+type Store = {  
   todos: TodoItem[];
 };
 
