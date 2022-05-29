@@ -53,7 +53,7 @@ export const data: Data<Store, Store> = {
 </script>
 
 <script setup lang="ts">
-import { Head, useData } from "aleph/vue"
+import { Head, useData } from "aleph/vue"  
 
 const { data, isMutating, mutation } = useData();
 
