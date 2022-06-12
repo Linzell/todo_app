@@ -6,7 +6,7 @@ type TodoItem = {
 };
 
 type Store = {  
-  todos: TodoItem[];
+  todos: TodoItem[]; 
 };
 
 const store: Store = {
